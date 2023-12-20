@@ -1,0 +1,19 @@
+.getData {
+    margin: 7% 25%;
+    border: 1px solid black;
+    border-radius: 5px;
+    border-color: black;
+    height: auto;
+    width: 50%;
+}
+
+.saveData{
+    margin: 0% 45%;
+}
+
+button{
+    background-color: blue;
+    border:2px;
+    color: antiquewhite;
+    border-radius: 5px;
+}
